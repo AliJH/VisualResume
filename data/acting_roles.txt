@@ -1,6 +1,6 @@
-experience_id	acting_position details
-2	Senior Technology Support Officer   
-2	Team Leader, Technology Support Remote Team 
-5	Senior Records Coordinator  
-6	Senior Business Intelligence Developer  
-6	Manager, Courts Performance and Reporting Unit  
+experience_id	acting_position	details
+2	Senior Technology Support Officer	
+2	Team Leader, Technology Support Remote Team	
+5	Senior Records Coordinator	
+6	Senior Business Intelligence Developer	
+6	Manager, Courts Performance and Reporting Unit	
