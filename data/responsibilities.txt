@@ -1,4 +1,4 @@
-experience_id	responsibility	description
+experience_id	achivement	details
 1		provided audio visual support during classes 
 1		developed and implemented lesson plans teaching first year education students how to use Windows Movie Maker and Apple iMovie to create short videos 
 1		developed user guides and tip sheets for education students using Windows Movie Maker and Apple iMovie 

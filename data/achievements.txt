@@ -1,2 +1,0 @@
-experience_id	achievement	details
-5	map	custom js blah blah
