@@ -1,0 +1,2 @@
+experience_id	skill	description
+6	ETL	extract, transform, load

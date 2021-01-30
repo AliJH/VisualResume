@@ -1,0 +1,24 @@
+experience_id	responsibility	description
+1		provided audio visual support during classes 
+1		developed and implemented lesson plans teaching first year education students how to use Windows Movie Maker and Apple iMovie to create short videos 
+1		developed user guides and tip sheets for education students using Windows Movie Maker and Apple iMovie 
+11		staff performance management 
+11		staff resourcing 
+11		inventory management 
+11		business analysis and process improvement 
+2		act as an immediate hierachical and technical escalation point
+2		analyse agent performance, celebrating successes and working with agents on service improvement as appropriate
+2		engage with IT project teams to ensure that the Service Desk has the required resources to effectively support clients through significant change releases
+2		collaborate with IT support teams to ensure that the Service Desk has up to date and effective knowledge resources
+2		responding to Critical Incidents / service outages
+3		creation and maintenance of end user IT guide content with a focus on the creation of video content 
+3		reporting and analysis of usage end user IT guide content 
+4		record things
+4		more record things
+4		would you believe more record things
+5		fancier record things
+5		super fancy record things
+5		not much
+6		create reports
+6		build dashboard
+6		business analysis

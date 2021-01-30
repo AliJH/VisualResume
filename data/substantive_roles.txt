@@ -1,0 +1,8 @@
+role_id	organisation	organisation_code	team	position	start_month	end_month	notes
+R0	Subway	Subway		Store Manager	01/04/07	01/02/12	
+R1	Queensland University of Technology	QUT	Faculty of Education	Research Assistant	01/02/11	01/06/11	This was a casual position undertaken in addition to full time employment and full time undergraduate study. It involved assisting teaching staff and fellow students with classroom technology.
+R2	Queensland University of Technology	QUT	Technology Support	Technology Support Officer	01/04/12	01/01/17	In this position I have held a number of varied roles and responsibilities, ending up as the 2IC of the Service Desk team.
+R3	Queensland University of Technology	QUT	Information, Training & Service Management Office	Learning & Development Designer	01/05/14	01/01/15	
+R4	Department of Agriculture and Fisheries	DAF	Records Management Services	Digital Records Officer	01/01/17	01/07/17	
+R5	Department of Agriculture and Fisheries	DAF	Records Management Services	Records Coordinator (Digital)	01/08/17	01/07/18	
+R6	Department of Justice and Attorney General	DJAG	Courts Performance and Reporting Unit	Business Intelligence Developer	01/07/18		
