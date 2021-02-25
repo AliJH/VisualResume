@@ -1,24 +1,54 @@
 experience_id	achievement	details
-1		provided audio visual support during classes 
-1		developed and implemented lesson plans teaching first year education students how to use Windows Movie Maker and Apple iMovie to create short videos 
-1		developed user guides and tip sheets for education students using Windows Movie Maker and Apple iMovie 
-11		staff performance management 
-11		staff resourcing 
-11		inventory management 
-11		business analysis and process improvement 
-2		act as an immediate hierachical and technical escalation point
-2		analyse agent performance, celebrating successes and working with agents on service improvement as appropriate
-2		engage with IT project teams to ensure that the Service Desk has the required resources to effectively support clients through significant change releases
-2		collaborate with IT support teams to ensure that the Service Desk has up to date and effective knowledge resources
-2		responding to Critical Incidents / service outages
-3		creation and maintenance of end user IT guide content with a focus on the creation of video content 
-3		reporting and analysis of usage end user IT guide content 
-4		record things
-4		more record things
-4		would you believe more record things
-5		fancier record things
-5		super fancy record things
-5		not much
-6		create reports
-6		build dashboard
-6		business analysis
+6	Building datasets and undertaking initial analysis to support the forecasting of workload in the higher courts based on workload in the lower courts.
+6	Developing new operational reports to support registry staff with scheduling courts resources in a sustainable and safe way.
+6	Working with colleagues within CPRU and Childrens Court staff to develop datasets integrating multiple data sources supporting the development of new dashboards.
+6	Integrating vendor provided data, manually collated business data (including building the business a SharePoint site to ensure reasonable data quality and automation opportunities) and data from case management systems to build reports providing the procurement team with visibility over vendor performance.
+6	Collaborating with colleagues to develop standard datasets to be used for efficiently responding to ad-hoc requests.
+6	Reverse engineering of existing reports built into source system databases so that they could be effectively reviewed and if appropriate rebuilt in a centralised reporting platform.
+6	Working with Azure Data Factory to modernise ETL processes.
+6	Development of SAS programs and macros to automate data extraction from courts case managements system into a standard format within SAS.
+6	Creation of queries for: Oracle Database; Microsoft SQL Server and IBM DB2 for regular data extraction and ad-hoc reporting activities.
+6	Creation of web-based tools to enable non-technical colleagues to undertake simple data exploration of our source systems.
+6	Creation of web-based tools to automate the generation of common ad-hoc reports.
+6	Provision of specialist IT support for the use of systems relevant to statistical data.
+6	Provision of first level general IT support to colleagues.
+6	Creation of a team SharePoint site designed to encourage knowledge sharing and collaboration. Including beginning work to create the unit’s first data dictionary and catalogue of reports.
+6	Support the use of collaboration tools for managing team workloads, e.g. Microsoft Planner and ServiceNow.
+6	Investigate new technologies and platforms related to data management and statistical analysis.
+5	Automation of data extraction and manipulation from Microsoft SQL databases, Active Directory and SharePoint sites.
+5	Development of a web-based reporting front-end for the departmental recordkeeping system (eDOCS).
+5	Providing reporting support to the Records Manager including the creation of complex SQL queries.
+5	Development of interactive maps which show usage of the departmental recordkeeping system across regional sites and allow users to filter sites on key criteria.
+5	Development of data extraction and analysis tools to support recordkeeping activities.
+5	Data migrations from business systems into the departmental recordkeeping system.
+5	Assisting system administrators in troubleshooting and resolving technical faults.
+5	Development of a web-based leave tracking and forward planning calendar.
+5	Supporting business units transitioning to digital processes by providing best practice examples of what can be done with technology stacks already available to them.
+5	Development of a Records Management request fulfilment portal to improve the effectiveness of existing service management processes.
+5	Creation of whiteboard style videos to promote the work done by Records Management and highlight the importance of recordkeeping for government agencies.
+5	Development of a customer facing knowledge base to support customers in resolving technical issues and queries at tier 0.
+2	Act as Team Leader, Technology Support when required.
+2	Work with senior staff to identify areas of improvement aligned with organisational goals.
+2	Analyse customer requests made to the Service Desk to identify opportunities for the creation of defined service offerings.
+2	Monitor team workloads in the immediate and long term ensuring adequate resources are available to meet operational requirements.
+2	Analyse agent and service performance, celebrating successes and working with relevant parties to develop and implement performance improvement strategies.
+2	Take a lead role in responding to Critical Incidents.
+2	Respond to customer feedback regarding the Service Desk and associated services.
+2	Provide first level IT support to a wide audience ranging from executive staff to students and everyone in between.
+2	Review and contribute to the creation of IT knowledge content.
+2	Assist colleagues with immediate hierarchical & technical escalations.
+2	Conduct training for agents and drive the creation of new knowledge resources.
+4	I'm still thinking of the best way to record this, essentially everything done under the Records Coordinator (Digital) role was likely to have been started or overlap in some way with the achievements of this role.
+3	Identify content areas where creation of Video Guides would benefit end users.
+3	Develop end user appropriate scripts.
+3	Promote awareness of the Video Guides to end users and support areas.
+3	Review content to ensure it met web accessibility standards, tacking action to rectify any content that did not meet standards.
+3	Maintain the IT training website.
+3	Use of Google Analytics to analyse web site statistics identify and act on trends in customer behaviour.
+1	 Developed teaching materials for students using Windows Movie Maker and Apple iMovie.
+1	 Taught students one on one and in small groups to use Windows Movie Maker and Apple iMovie to create short videos. 
+1	 Responded to student queries about the use of information communication technologies in their assessment tasks.
+11	Managed a diverse team of up to 30 service and managerial staff across multiple sites.
+11	Developed process and training documentation for managerial staff.
+11	Worked in a team of franchisees and head office staff to set up and run new stores.
+11	Trained new franchisees in store operations.
