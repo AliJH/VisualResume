@@ -1,2 +1,26 @@
 experience_id	technology	details
-6	SAS Macro	Automate report creation
+6	Microsoft SQL Server
+6	Oracle SQL
+6	IBM DB2 SQL Server
+6	SAS - Macro Code
+6	SAS - Data Step Code
+6	SAS - Visual Analytics
+6	SAS - Schedule Manager
+6	Javascript
+6	PowerShell
+6	Power BI
+6	Azure Data Factory
+6	Microsoft Excel
+6	Azure SQL Database
+6	ServiceNow
+6	SharePoint Online
+6	Power Automate
+6	Crystal Reports
+6	R
+5	SharePoint 2013
+5	Microsoft Excel
+5	Javascript
+5	eDOCS DM API
+5	PowerShell
+5	R
+5	Microsoft SQL Server
