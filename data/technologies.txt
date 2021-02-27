@@ -1,26 +1,41 @@
-experience_id	technology	details
-6	Microsoft SQL Server
-6	Oracle SQL
-6	IBM DB2 SQL Server
-6	SAS - Macro Code
-6	SAS - Data Step Code
-6	SAS - Visual Analytics
-6	SAS - Schedule Manager
-6	Javascript
-6	PowerShell
-6	Power BI
-6	Azure Data Factory
-6	Microsoft Excel
-6	Azure SQL Database
-6	ServiceNow
-6	SharePoint Online
-6	Power Automate
-6	Crystal Reports
-6	R
-5	SharePoint 2013
-5	Microsoft Excel
-5	Javascript
-5	eDOCS DM API
-5	PowerShell
-5	R
-5	Microsoft SQL Server
+experience_id	technology	level_of_expertise_id
+6	Microsoft SQL Server	2
+6	Oracle SQL	2
+6	IBM DB2 SQL Server	2
+6	SAS - Macro Code	1
+6	SAS - Data Step Code	1
+6	SAS - Visual Analytics	2
+6	SAS - Schedule Manager	2
+6	Javascript	2
+6	PowerShell	2
+6	Power BI	2
+6	DAX	2
+6	Power Query	2
+6	Azure Data Factory	3
+6	Microsoft Excel	2
+6	Azure SQL Database	2
+6	ServiceNow	2
+6	SharePoint Online	2
+6	Power Automate	2
+6	Crystal Reports	3
+6	R	3
+5	SharePoint 2013	2
+5	Microsoft Excel	2
+5	Javascript	2
+5	eDOCS DM API	1
+5	PowerShell	2
+5	R	3
+5	Microsoft SQL Server	2
+7	HTML/CSS	2
+7	C	3
+7	Haskell	3
+7	Prolog	3
+7	PostgreSQL	2
+7	MySQL	2
+7	Javascript	2
+7	HTML/CSS	2
+9	Python early days yet
+9	MySQL	2
+9	Lisp	3
+7	Git	3
+6	Regex	2

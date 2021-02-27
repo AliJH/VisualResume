@@ -1,0 +1,4 @@
+level_of_expertise_id	level_of_expertise
+1	pretty darn good
+2	not too shabby if I do say so myself
+3	early days yet
