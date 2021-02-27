@@ -1,4 +1,4 @@
-experience_id	technology	level_of_expertise_id	self_rank_from_ten
+experience_id	technology	level_of_expertise_id	self_rank_from_10
 6	Microsoft SQL Server	2	6
 6	Oracle SQL	2	7
 6	IBM DB2 SQL Server	2	4
