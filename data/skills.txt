@@ -1,2 +1,40 @@
-experience_id	skill	details
-6	ETL	extract, transform, load
+experience_id	skill	level_of_expertise	self_rank_from_10
+10	IT Service Managmeent	2	7
+2	Desktop Support	3	8
+2	IT Service Managmeent	3	7
+2	Stakeholder Engagement	2	5
+2	IT Training	2	5
+2	Staff performance management	1	8
+2	Rostering	1	8
+6	SQL query writing	1	8
+6	SQL query optimisation	1	6
+6	Data warehousing	2	5
+6	ETL	2	6
+6	Data Visualisation	2	6
+6	Programming / Scripting	2	6
+6	Web Development	2	5
+6	Business Analysis	2	6
+6	Stakeholder Engagement	2	5
+2	Complaints handling	1	8
+6	Forecasting	3	2
+6	Automated report building	2	7
+6	Reverse engineering long forgotten but business critical databases	1	10
+5	ETL	2	6
+5	Data Visualisation	2	6
+5	Programming / Scripting	2	6
+5	Web Development	2	5
+5	Business Analysis	2	6
+5	Stakeholder Engagement	2	5
+4	ETL	2	6
+4	Data Visualisation	2	6
+4	Programming / Scripting	2	6
+4	Web Development	2	5
+4	Business Analysis	2	6
+4	Stakeholder Engagement	2	5
+3	IT Training	2	5
+3	Web Development	2	5
+3	Stakeholder Engagement	2	5
+5	Data Migration	2	4
+7	Database Design and Management	2	7
+7	Programming / Scripting	2	6
+7	Web Development	2	5

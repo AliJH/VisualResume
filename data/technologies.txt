@@ -1,41 +1,69 @@
-experience_id	technology	level_of_expertise_id
-6	Microsoft SQL Server	2
-6	Oracle SQL	2
-6	IBM DB2 SQL Server	2
-6	SAS - Macro Code	1
-6	SAS - Data Step Code	1
-6	SAS - Visual Analytics	2
-6	SAS - Schedule Manager	2
-6	Javascript	2
-6	PowerShell	2
-6	Power BI	2
-6	DAX	2
-6	Power Query	2
-6	Azure Data Factory	3
-6	Microsoft Excel	2
-6	Azure SQL Database	2
-6	ServiceNow	2
-6	SharePoint Online	2
-6	Power Automate	2
-6	Crystal Reports	3
-6	R	3
-5	SharePoint 2013	2
-5	Microsoft Excel	2
-5	Javascript	2
-5	eDOCS DM API	1
-5	PowerShell	2
-5	R	3
-5	Microsoft SQL Server	2
-7	HTML/CSS	2
-7	C	3
-7	Haskell	3
-7	Prolog	3
-7	PostgreSQL	2
-7	MySQL	2
-7	Javascript	2
-7	HTML/CSS	2
-9	Python	1
-9	MySQL	2
-9	Lisp	3
-7	Git	3
-6	Regex	2
+experience_id	technology	level_of_expertise_id	self_rank_from_ten
+6	Microsoft SQL Server	2	6
+6	Oracle SQL	2	7
+6	IBM DB2 SQL Server	2	4
+6	SAS - Macro Code	1	9
+6	SAS - Data Step Code	1	9
+6	SAS - Visual Analytics	2	7
+6	SAS - Schedule Manager	2	7
+6	Javascript	2	5
+6	PowerShell	2	6
+6	Power BI	2	6
+6	DAX	2	6
+6	Power Query	2	5
+6	Azure Data Factory	3	2
+6	Microsoft Excel	2	7
+6	Azure SQL Database	2	5
+6	ServiceNow	2	5
+6	SharePoint Online	2	5
+6	Power Automate	2	4
+6	Crystal Reports	3	1
+6	R	3	3
+5	SharePoint 2013	2	6
+5	Microsoft Excel	2	7
+5	Javascript	2	5
+5	eDOCS DM API	1	8
+5	PowerShell	2	6
+5	R	3	3
+5	Microsoft SQL Server	2	6
+7	HTML/CSS	2	6
+7	C	3	2
+7	Haskell	3	2
+7	Prolog	3	2
+7	PostgreSQL	2	4
+7	MySQL	2	4
+7	Javascript	2	5
+7	HTML/CSS	2	6
+9	Python	3	1
+9	MySQL	2	4
+9	Lisp	3	2
+7	Git	3	2
+6	Regex	2	5
+1	Apple iMovie	3	3
+1	Windows Movie Maker	3	3
+2	Classroom AV Equipment	3	3
+2	Windows XP, 7 & 10	1	8
+2	Blackboard LMS	2	6
+2	Atlassian Confluence	2	4
+2	OSX	2	5
+2	IT Networks	2	4
+2	Enterprise Storage	2	4
+2	Active Directory	2	4
+2	Microsoft Exchange	2	4
+3	Google Analytics	3	3
+3	Camtasia Studio	2	4
+3	Javascript	2	5
+3	HTML/CSS	2	6
+3	Audacity	3	3
+11	Microwaves	1	10
+11	Toaster Oven	1	9
+11	Point of Sale Systems	1	10
+4	SharePoint 2013	2	6
+4	Microsoft Excel	2	7
+4	Javascript	2	5
+4	eDOCS DM API	1	8
+4	PowerShell	2	6
+4	R	3	3
+4	Microsoft SQL Server	2	6
+7	Linux	2	5
+2	Linux	2	5
