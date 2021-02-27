@@ -34,7 +34,7 @@ experience_id	technology	level_of_expertise_id
 7	MySQL	2
 7	Javascript	2
 7	HTML/CSS	2
-9	Python early days yet
+9	Python	1
 9	MySQL	2
 9	Lisp	3
 7	Git	3
