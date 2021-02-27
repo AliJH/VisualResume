@@ -1,4 +1,4 @@
-experience_id	skill	level_of_expertise	self_rank_from_10
+experience_id	skill	level_of_expertise_id	self_rank_from_10
 10	IT Service Managmeent	2	7
 2	Desktop Support	3	8
 2	IT Service Managmeent	3	7
