@@ -6,10 +6,10 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 2	IT Training	2	5
 2	Staff performance management	1	8
 2	Rostering	1	8
-6	SQL query writing	1	8
-6	SQL query optimisation	1	6
+6	Analytics Query Writing	1	8
+6	Analytics Query Optimisation	1	6
 6	Data warehousing	2	5
-6	ETL	2	6
+6	ETL	3	8
 6	Data Visualisation	2	6
 6	Programming / Scripting	2	6
 6	Web Development	2	5
@@ -38,3 +38,8 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 7	Database Design and Management	2	7
 7	Programming / Scripting	2	6
 7	Web Development	2	5
+12	ELT	3	8
+12	Data Visualisation	2	7
+12	Data Management	2	6
+12	Programming / Scripting	2	7
+12	Stakeholder Engagement	2	6
