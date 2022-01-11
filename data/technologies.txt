@@ -75,3 +75,11 @@ experience_id	technology	level_of_expertise_id	self_rank_from_10
 12	Azure SQL Server	2	7
 12	Azure DevOps	2	5
 12	Visual Studio	2	6
+13	Azure Synapse Analytics	1	8
+13	T-SQL	1	8
+13	Jira	2	5
+13	Power BI 	1	8
+13	DAX	2	7
+13	Azure SQL Server	1	8
+13	Azure DevOps	2	5
+13	Visual Studio	2	6

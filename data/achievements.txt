@@ -52,3 +52,10 @@ experience_id	achievement	details
 11	Developed process and training documentation for managerial staff.
 11	Worked in a team of franchisees and head office staff to set up and run new stores.
 11	Trained new franchisees in store operations.
+12	Build and maintain ELT pipelines using Azure Synapse Analytics.
+12	Model source system data into star schema fact and dimension tables.
+12	Engage with stakeholders to define, refine and prioritise reporting requirements.
+13	Build and maintain ELT pipelines using Azure Synapse Analytics.
+13	Model source system data into star schema fact and dimension tables.
+13	Engage with stakeholders to define, refine and prioritise reporting requirements.
+13	Coordinate the completion of data engineering tasks across multiple project streams.

@@ -47,3 +47,12 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 12	Business Analysis	2	6
 12	Analytics Query Writing	1	8
 12	Analytics Query Optimisation	1	6
+13	ELT	3	8
+13	Data Visualisation	2	7
+13	Data Management	2	6
+13	Programming / Scripting	2	7
+13	Stakeholder Engagement	2	6
+13	Data Modelling	2	6
+13	Business Analysis	2	6
+13	Analytics Query Writing	1	8
+13	Analytics Query Optimisation	1	6
