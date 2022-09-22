@@ -38,7 +38,7 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 7	Database Design and Management	2	7
 7	Programming / Scripting	2	6
 7	Web Development	2	5
-12	ELT	3	8
+12	ELT	1	8
 12	Data Visualisation	2	7
 12	Data Management	2	6
 12	Programming / Scripting	2	7
@@ -47,7 +47,7 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 12	Business Analysis	2	6
 12	Analytics Query Writing	1	8
 12	Analytics Query Optimisation	1	6
-13	ELT	3	8
+13	ELT	1	8
 13	Data Visualisation	2	7
 13	Data Management	2	6
 13	Programming / Scripting	2	7
@@ -56,3 +56,13 @@ experience_id	skill	level_of_expertise_id	self_rank_from_10
 13	Business Analysis	2	6
 13	Analytics Query Writing	1	8
 13	Analytics Query Optimisation	1	6
+14	ELT	1	8
+14	Data Visualisation	2	7
+14	Data Management	2	6
+14	Programming / Scripting	3	8
+14	Stakeholder Engagement	2	6
+14	Data Modelling	2	6
+14	Business Analysis	2	6
+14	Analytics Query Writing	1	8
+14	Analytics Query Optimisation	1	6
+14	Forecasting	2	5

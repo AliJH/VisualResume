@@ -45,9 +45,9 @@ experience_id	achievement	details
 3	Review content to ensure it met web accessibility standards, tacking action to rectify any content that did not meet standards.
 3	Maintain the IT training website.
 3	Use of Google Analytics to analyse web site statistics identify and act on trends in customer behaviour.
-1	 Developed teaching materials for students using Windows Movie Maker and Apple iMovie.
-1	 Taught students one on one and in small groups to use Windows Movie Maker and Apple iMovie to create short videos. 
-1	 Responded to student queries about the use of information communication technologies in their assessment tasks.
+1	Developed teaching materials for students using Windows Movie Maker and Apple iMovie.
+1	Taught students one on one and in small groups to use Windows Movie Maker and Apple iMovie to create short videos. 
+1	Responded to student queries about the use of information communication technologies in their assessment tasks.
 11	Managed a diverse team of up to 30 service and managerial staff across multiple sites.
 11	Developed process and training documentation for managerial staff.
 11	Worked in a team of franchisees and head office staff to set up and run new stores.
@@ -59,3 +59,8 @@ experience_id	achievement	details
 13	Model source system data into star schema fact and dimension tables.
 13	Engage with stakeholders to define, refine and prioritise reporting requirements.
 13	Coordinate the completion of data engineering tasks across multiple project streams.
+14	Maintained and developed ETL and ELT pipelines.
+14	Maintained and developed Power BI reports and datasets.
+14	Maintained and developed user friendly reporting datasets in the Data Warehouse.
+14	Completed adhoc data/reporting requests.
+14	Analyse and make use of raw source system data to improve reporting and analytics capabilities.
