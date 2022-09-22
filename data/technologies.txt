@@ -83,3 +83,12 @@ experience_id	technology	level_of_expertise_id	self_rank_from_10
 13	Azure SQL Server	1	8
 13	Azure DevOps	2	5
 13	Visual Studio	2	6
+14	PostgreSQL	2	7
+14	Greenplum	2	6
+14	Power BI	1	8
+14	R	2	6
+14	Excel	2	6
+14	DAX	2	7
+14	Power Automate	2	6
+14	SAS - Macro Code	1	9
+14	Oracle SQL	2	7
